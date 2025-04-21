@@ -1,0 +1,9 @@
+In one of our earlier classes, we explored the distinction between analog and digital systems, with an emphasis on how low-power technology is prioritized in our field.
+We also covered how address lines or address buses function—they’re essential in pinpointing where specific data is stored in memory.
+Following that, we were introduced to the basic building blocks of digital logic, including logic gates, and gained an understanding of how the CPU plays a central role in executing tasks.
+When a task is initiated, it goes through the CPU, which then interacts with the Arithmetic Logic Unit (ALU), followed by the Accumulator, and eventually the Program Counter.
+Another topic we touched on was programming language translation—learning that compilers and interpreters are tools used to convert high-level code into a form that computers can understand.
+In a subsequent class, we delved into the binary number system—how computers use only 0s and 1s to operate, rather than concepts like "yes" or "no." 
+We learned how even the smallest error, like switching a single bit, can cause an entire operation to fail.
+I actually experienced this firsthand during our model test when a binary-related issue led to every answer marked "A" being automatically considered correct—even when it wasn’t!
+For our coursework, we’re also required to maintain a GitHub repository for each class, documenting everything we’ve learned.
