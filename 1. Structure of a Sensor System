@@ -1,0 +1,18 @@
+In this class, we discussed the general structure of a sensor, which is typically composed of three main components: Controller, System, and Measurement unit
+A key question that came up during the discussion was:
+“Why do we write scripts?”
+The answer emphasized that scripting is mainly for automation — it helps simplify tasks and reduce manual effort, enabling systems or users to perform repetitive processes more efficiently.
+We also touched upon the concept of feedback, which is: inherent in both natural and engineered systems
+One of the basic building blocks of automation
+2. Understanding Network Systems
+In the following class, we shifted focus to how network systems work. We explored the data transmission process and how different layers of the network function.
+The source of a network can be a satellite, cable, etc.
+For example, in a network like JIO, the data is transmitted as optical signals to application-level services (like messaging apps), which then relay the data to specific servers (e.g., Gmail).
+Key concepts discussed:
+Network layers include the physical layer, IP layer, and the use of Internet Protocol (IP) addresses
+Firewalls serve as a protective mechanism — they conceal and secure parts of a network
+Data is not disrupted by magnetic disturbances, a common misconception we clarified
+The network follows a client-server architecture:
+Clients are remote processors that send requests
+Servers handle and respond to those requests
+Routes are defined as the pathways through which data packets travel across various layers of the network.
