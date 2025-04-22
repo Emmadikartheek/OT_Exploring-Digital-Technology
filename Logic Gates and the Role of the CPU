@@ -1,0 +1,17 @@
+In this class, we explored logic gates and gained a clearer understanding of how the Central Processing Unit (CPU) functions during the execution of an action.
+Logic Gates
+Logic gates are the fundamental building blocks of digital circuits. They perform basic logical functions using binary inputs and produce binary outputs. Though we didn’t dive deep into the types, this session introduced us to the role logic gates play in computing operations and decision-making at the hardware level.
+How the CPU Executes an Action
+We discussed the sequence through which an action or instruction gets processed inside a computer:
+Action Initiated – Any user or system-generated action is first initiated.
+The action is communicated to the CPU, which begins processing.
+The CPU passes it to the Arithmetic Logic Unit (ALU) for computation or logical operations.
+The result is temporarily stored in the Accumulator.
+The Program Counter is then updated to keep track of the next instruction to be executed.
+
+Compilers and Interpreters
+We also learned that compilers and interpreters act as language translators between high-level programming languages (like Python or C++) and the machine language understood by computers.
+A compiler translates the entire program at once before execution.
+An interpreter translates and executes the program line by line.
+Both tools are essential for enabling communication between human-written code and the computer’s hardware.
+
