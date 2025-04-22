@@ -1,7 +1,5 @@
 In this class, we discussed the general structure of a sensor, which is typically composed of three main components: Controller, System, and Measurement unit
-A key question that came up during the discussion was:
-“Why do we write scripts?”
-The answer emphasized that scripting is mainly for automation — it helps simplify tasks and reduce manual effort, enabling systems or users to perform repetitive processes more efficiently.
+The scripts emphasized that scripting is mainly for automation — it helps simplify tasks and reduce manual effort, enabling systems or users to perform repetitive processes more efficiently.
 We also touched upon the concept of feedback, which is: inherent in both natural and engineered systems
 One of the basic building blocks of automation
 2. Understanding Network Systems
