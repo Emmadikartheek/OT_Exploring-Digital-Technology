@@ -1,0 +1,16 @@
+In this class, we were introduced to the concept of Binary, which was new to me at first. Initially, it seemed complicated, but after the explanation in class, it became much clearer and easier to understand.
+Converting Decimal to Binary
+To convert a decimal number into its binary equivalent: Divide the decimal number by 2. Record the remainder.
+Repeat the division process using the quotient until the quotient becomes 0.
+The binary representation is the sequence of remainders written in reverse order.
+This process helped us visualize how computers internally handle numbers using only two digits: 0 and 1.
+
+Understanding Two’s Complement
+We also explored the concept of Two’s Complement, a method used to represent both positive and negative integers in binary form.
+Definition:
+Two's complement is a mathematical operation on binary numbers used to represent signed integers (positive, negative, or zero) in binary.
+Steps to find the two’s complement of a number (assuming an 8-bit representation):
+Write the binary equivalent of the positive number (ensure it’s 8 bits long).
+Invert the digits – convert all 0s to 1s and all 1s to 0s.
+Add 1 to the result from step 2.
+This method allows computers to perform subtraction using addition operations and is crucial for handling negative numbers in digital systems.
