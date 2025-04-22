@@ -1,0 +1,24 @@
+In this session, we delved into Linux, an open-source operating system we had some exposure to in a previous course. It shares this open-source nature with operating systems like Windows and macOS, although Linux is more prominently used in areas such as cloud storage, database management, and server-side systems.
+Some key features of Linux include:
+Free and open-source – there’s no cost for using it.
+Low susceptibility to viruses, making it a secure OS.
+Highly customizable – users can modify it to suit their preferences and workflows. This flexibility was one aspect I personally found most appealing.
+
+We are currently using the Ubuntu distribution of Linux, and as a beginner, I found it fairly intuitive and accessible.
+Basic Linux commands introduced:
+mkdir – Creates a new directory (folder)
+ls – Lists all files and directories in the current folder
+cd – Changes the directory to another path
+rm – Permanently deletes files or folders
+mv – Moves or renames files or folders
+exit – Closes the terminal session
+
+4. Functional Units of a Computer
+We then transitioned into a discussion on the major functional units of a computer, which work together to perform tasks and process information. The five main units discussed were:
+Input Unit – Devices like keyboard and mouse that provide input to the system
+Output Unit – Monitors, printers, etc., which display or produce the output
+Memory Unit – Stores data and instructions (includes RAM, ROM)
+Arithmetic Logic Unit (ALU) – Handles all arithmetic and logical operations
+Control Unit – Directs the flow of data and coordinates operations across other units
+
+This foundational overview helps us understand how hardware and software interact at the system level.
