@@ -14,3 +14,4 @@ Write the binary equivalent of the positive number (ensure it’s 8 bits long).
 Invert the digits – convert all 0s to 1s and all 1s to 0s.
 Add 1 to the result from step 2.
 This method allows computers to perform subtraction using addition operations and is crucial for handling negative numbers in digital systems.
+This helped me a lot to learn about binary numbers.
